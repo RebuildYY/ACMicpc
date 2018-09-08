@@ -1,2 +1,2 @@
 # ACMicpc
-# Solve the Algorithm problem
+# Solve Algorithm problem
